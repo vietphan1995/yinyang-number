@@ -2,6 +2,8 @@
 
 # Introduction
 
+[https://github.com/vietphan1995/yinyang-number.git](https://github.com/vietphan1995/yinyang-number.git)
+
 Yinyang number is an managing application software, this act as trading platform, exchange product is assets that goes with meaning numbers.
 
 Yinyang number helps people sell, buy assets like cellphone number, vehicle, money, product, … These assets value is decided by meaning numbers goes with, like cellphone number/s/pattern, license vehicle, money code/id, product id/code.
