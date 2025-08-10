@@ -1,6 +1,8 @@
-# Yinyang number
+# yinyang-number
 
-# Introduction
+## Yinyang Number
+
+### Introduction
 
 [https://github.com/vietphan1995/yinyang-number.git](https://github.com/vietphan1995/yinyang-number.git)
 
@@ -12,7 +14,7 @@ Yinyang number finds, extracts, suggests product having meaning number base on y
 
 Example: Growing cellphone number can be 0123456789
 
-[back to projects …](https://github.com/vietphan1995/projects)
+[back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
 https://phantrungviet.notion.site/Yinyang-number-1b25e832d6ee8095a87df6a4b63b17a4
