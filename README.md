@@ -15,4 +15,4 @@ Example: Growing cellphone number can be 0123456789
 [back to projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://six-zinc-ad4.notion.site/Yinyang-number-1b25e832d6ee8095a87df6a4b63b17a4
+https://phantrungviet.notion.site/Yinyang-number-1b25e832d6ee8095a87df6a4b63b17a4
